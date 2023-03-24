@@ -1,5 +1,6 @@
 import styled from 'styled-components';
 import '../App.css';
+import Products from './Products';
 
 const BREAK_POINT_TABLET = 768;
 
@@ -67,6 +68,7 @@ const Render = () => {
     <>
       <MainArea>
         <div className="products-box">
+          <Products/>
           <div className="products">
             <img src="/image/products03.jpg" alt="tea" />
             <h3>햄퍼 Hamper</h3>
