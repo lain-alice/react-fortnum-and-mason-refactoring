@@ -4,4 +4,4 @@
 
 ## 이미지, 내용 출처
 
-포트넘 & 메이슨 공식 홈페이지(https://www.fortnumandmason.com/)
+FORTNUM & MASON 공식 홈페이지(https://www.fortnumandmason.com/)
